@@ -1,0 +1,21 @@
+Geeks for Geeks 
+1.basics 
+https://www.geeksforgeeks.org/software-testing-basics/
+2.kinds of :
+https://www.geeksforgeeks.org/types-software-testing/
+3.7 principle of software testing :
+https://www.geeksforgeeks.org/software-engineering-seven-principles-of-software-testing/
+
+
+tutorials point
+https://www.tutorialspoint.com/software_testing/
+
+guru99 : 
+https://www.guru99.com/software-testing.html
+
+
+udemy : 
+1.https://www.udemy.com/software-testing-fundamentals-common-interview-qa/
+
+2.https://www.udemy.com/qa-software-testing-training-course/
+
