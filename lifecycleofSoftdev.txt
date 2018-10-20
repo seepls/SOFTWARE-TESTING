@@ -1,0 +1,47 @@
+web app:
+eg : google map , fb 
+lang : RUBY , PHP,PYTHON 
+database : 
+tools : text editor 
+
+mobile app :
+iOS : Xcode , objective-C ->appload 
+Android : eclipse /Android Studio(JAVA)
+
+website : 
+HTML , CSS , JabaScript 
+
+Designer : focuses on look : uses photoshop or illustrator 
+frontend dev. - HTML , CSS , JavaScript 
+Backend dev . : Connect to database : ruby , python , php , JAVA 
+
+
+Life cycle of. software development 
+a. requirement gathering:
+analyse requirements and features in demand
+Market research | product reuirement| product Architecture and function specification| product Design |
+Coding and implimnetation -> <- bug fixes | testing  and quality 
+
+ marketing requirment document (MRD ) : formal data rep. of market data gather 
+  Market research & Analysis| competitive analysis{ economics of software creation}
+
+b. writing functional specification:
+ functioning of product on an abstract level
+c. creating Archi. and design doc .:
+components of product decided 
+functionality defined: 
+Interfaces(rukes and regulation how these components will interact with each other ) are designed for these components to work together 
+d. implimentation and coding:
+  soft dev - 1. design documents 2 .developments tools 
+  each developer writes own code and collaborate with other devloper.
+  hence the need of : Revision control system ->concurrent Versions system(CVS)
+  
+e. Testing and quality assurance:
+1.unit testing : testing one component of product 
+2. sanity testing : check to see if the linkage is proper : e.i conflicting or multiple function same name , or global variable 
+3. functional testing 
+f. software release 
+g.Documentation:
+
+bug fixes , detail of new feature - new functionality 
+h.Support and new features
